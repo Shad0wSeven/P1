@@ -3,7 +3,7 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 import java.util.ArrayList;
 
-public class P1 {
+public class p1 {
 	private static Scanner sc;
 		
 	private static int n, m, k;
